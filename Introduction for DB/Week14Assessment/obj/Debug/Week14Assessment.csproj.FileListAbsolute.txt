@@ -1,0 +1,11 @@
+H:\C# projects\Week14Assessment\Week14Assessment\bin\Debug\Week14Assessment.exe.config
+H:\C# projects\Week14Assessment\Week14Assessment\bin\Debug\Personnel.mdf
+H:\C# projects\Week14Assessment\Week14Assessment\bin\Debug\Personnel_log.ldf
+H:\C# projects\Week14Assessment\Week14Assessment\bin\Debug\Week14Assessment.exe
+H:\C# projects\Week14Assessment\Week14Assessment\bin\Debug\Week14Assessment.pdb
+H:\C# projects\Week14Assessment\Week14Assessment\obj\Debug\Week14Assessment.csprojResolveAssemblyReference.cache
+H:\C# projects\Week14Assessment\Week14Assessment\obj\Debug\Week14Assessment.Form1.resources
+H:\C# projects\Week14Assessment\Week14Assessment\obj\Debug\Week14Assessment.Properties.Resources.resources
+H:\C# projects\Week14Assessment\Week14Assessment\obj\Debug\Week14Assessment.csproj.GenerateResource.Cache
+H:\C# projects\Week14Assessment\Week14Assessment\obj\Debug\Week14Assessment.exe
+H:\C# projects\Week14Assessment\Week14Assessment\obj\Debug\Week14Assessment.pdb
